@@ -1,6 +1,6 @@
-# nuxt-lint
+# nuxt-ts-eslint
 
-> My remarkable Nuxt.js project
+> Nuxt.js + Typescript + es-lint boilerplate.
 
 ## Build Setup
 
