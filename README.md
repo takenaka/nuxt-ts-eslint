@@ -26,7 +26,7 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 -  :+1: 機能改善
 -  :sparkles: 部分的な機能追加
 -  :tada: 盛大に祝うべき大きな機能追加
--  :hummer: リファクタリング
+-  :hammer: リファクタリング
 -  :shower: 不要な機能・使われなくなった機能の削除
 -  :green_heart: テストやCIの修正・改善
 -  :shirt: Lintエラーの修正やコードスタイルの修正
