@@ -21,6 +21,7 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 
+## Commit log
 -  :bug: バグ修正
 -  :+1: 機能改善
 -  :sparkles: 部分的な機能追加
